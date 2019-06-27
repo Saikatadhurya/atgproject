@@ -80,7 +80,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ATG Demo Project Task 1
+                    ATG Demo Project Task 3
                 </div>
 
 
