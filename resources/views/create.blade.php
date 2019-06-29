@@ -99,11 +99,7 @@ if(pincode.length == 5){
                 
                  }
                 }
-             /*   error: function(result){
-                   jQuery('.alert-danger').show();
-                   jQuery('.alert-success').hide();
-                   jQuery('.alert-danger').html("Failed");
-                }*/
+             
               });
              });
           });
